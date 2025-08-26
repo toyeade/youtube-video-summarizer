@@ -1,0 +1,9 @@
+jupyterlab
+ipykernel
+ipywidgets
+PyMuPDF
+openai
+numpy
+python-dotenv
+youtube-transcript-api
+flask
